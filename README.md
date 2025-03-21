@@ -98,6 +98,6 @@ Edit
 
 ## 👨‍💻 Author  
 
-📌 [![Sharath Soma](https://github.com/Pranav9309)] 
+📌 [![Pranav_Salunkhe]_(https://github.com/Pranav9309)] 
 
 If you find this project useful, ⭐ Star this repository! 🚀  
